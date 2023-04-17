@@ -3,7 +3,7 @@ WEBSITE
 
 updating readme on github before rebase
 
-changes on local repo
+changes on github
 
 changes on local repo again
 
